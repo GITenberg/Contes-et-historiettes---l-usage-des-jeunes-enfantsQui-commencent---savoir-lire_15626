@@ -1,0 +1,35 @@
+_repo: Contes-et-historiettes---l-usage-des-jeunes-enfantsQui-commencent---savoir-lire_15626
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carraud, Zulma
+    alias: Carraud, Z. (Zulma)
+    birthdate: 1796
+    deathdate: 1889
+    gutenberg_agent_id: '6169'
+    url: http://www.gutenberg.org/2009/agents/6169
+    wikipedia: http://fr.wikipedia.org/wiki/Zulma_Carraud
+description: ''
+gutenberg_bookshelf:
+- Language Education
+- FR Jeunesse
+- Children's Instructional Books
+gutenberg_issued: '2005-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15626'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcsh 'Readers (Primary)'
+- !lcc 'PC'
+title: 'Contes et historiettes à l''usage des jeunes enfants
+
+  Qui commencent à savoir lire'
+url: http://www.gutenberg.org/ebooks/15626
